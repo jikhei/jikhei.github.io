@@ -56,7 +56,7 @@ export const profileConfig: ProfileConfig = {
   // avatar: false,
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Chen Yixi (陈翊晞)',
-  bio: '',
+  bio: 'Can Jikhei (in Cantonese) | She | Ashley',
   links: [
     {
       name: 'Email',

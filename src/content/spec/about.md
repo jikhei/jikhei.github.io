@@ -4,4 +4,5 @@ I am a second-year M.A. student in Department of Linguistics at Zhejiang Univers
 - (RI 2)
 - (RI 3)
 
-I was born and raised in Guangdong and my mother tongues are Cantonese and Mandarin. I am also communicable in English and a beginner of German and French.
+I was born and raised in [Xinhui](https://en.wikipedia.org/wiki/Xinhui,_Jiangmen), which is a small town in Guangdong Province.
+I am a native speaker of Cantonese and Mandarin, also communicable in English, and a beginner of German and French.
