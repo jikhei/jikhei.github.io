@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
     // },
     {
       name: 'CV',
-      url: '/files/cv.pdf',
+      url: '/cv/',
       external: true
     },
   ],
