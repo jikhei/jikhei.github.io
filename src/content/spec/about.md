@@ -1,6 +1,11 @@
 # About
+
 ## Research interests
-My name is Chen Yixi (Can Jikhei in *Jyutping*, she / they). I am a second-year M.A. student in Department of Linguistics at Zhejiang University, China. I currently work with [Dr. YAN Jianwei](https://www.researchgate.net/profile/Jianwei-Yan-3) on digital humanities and quantitative linguistics. My research interests include:
+My name is Chen Yixi (陈翊晞, Can Jikhei in *Jyutping*, she / they). 
+
+I am a second-year M.A. student in Department of Linguistics at Zhejiang University, China. I currently work with [Dr. YAN Jianwei](https://www.researchgate.net/profile/Jianwei-Yan-3) on digital humanities and quantitative linguistics. 
+
+My research interests include:
 - (RI 1)
 - (RI 2)
 - (RI 3)

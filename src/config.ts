@@ -40,22 +40,27 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
-    LinkPreset.Home,
-    LinkPreset.About,
+    // LinkPreset.Home,
     // LinkPreset.CV,
+    LinkPreset.About,
     LinkPreset.Archive,
     // {
     //   name: 'GitHub',
     //   url: 'https://github.com/jikhei',     // Internal links should not include the base path, as it is automatically added
     //   external: true,                               // Show an external link icon and will open in a new tab
     // },
+    {
+      name: 'CV',
+      url: '/about/',
+      external: true
+    },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
   // avatar: false,
   avatar: 'assets/images/nagato-ava-2.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Chen Yixi (陈翊晞)',
+  name: 'Chen Yixi',
   bio: '',
   links: [
     {
