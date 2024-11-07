@@ -24,7 +24,12 @@ Before this blog, I built another personal blog with [`hexo`](https://hexo.io/zh
 - Changed the font to `Lexend-Deca` to enhance readability
     - References: [\[1\]](https://docs.astro.build/en/guides/fonts/#using-fontsource), [\[2\]](https://fontsource.org/fonts/lexend-deca/install) (inspired by [\[3\]](https://blog.3kh0.net/about/))
 - Changed the style of TOC (now it will display on the left side)
-    - References: [\[1\]](https://github.com/SlimeNull/slimenull.github.io) (Changed `src/config.ts`, `src/components/widget/TOC.astro`, and `src/components/widget/SideBar.astro`)
+    - References: [\[1\]](https://github.com/SlimeNull/slimenull.github.io) 
+        - `src/config.ts`: (close the original TOC on the right side)
+        - `src/components/widget/TOC.astro`: (copy and paste the script)
+        - `src/components/widget/SideBar.astro`): (copy and paste part of the script)
+        - `src/i18n/i18nKey.ts`: (add `toc = toc,`) 
+        - `src/i18n/languages/en.ts`: (add `[Key.toc]: 'TOC',`)
 
 ### 2024-11-05
 - Uploaded my cv in a new page
