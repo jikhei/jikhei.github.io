@@ -2,6 +2,12 @@
 
 ## Research interests
 
+> [!NOTE]
+> Here is some useful links:
+> - 📌 Projects: -
+> - 📃 Publications: -
+> - 📢 Presentations and posters: -
+
 My name is <ruby>
     陈<rp>(</rp><rt>chén</rt><rp>)</rp>
     翊<rp>(</rp><rt>yì</rt><rp>)</rp>
