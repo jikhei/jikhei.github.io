@@ -23,6 +23,8 @@ Before this blog, I built another personal blog with [`hexo`](https://hexo.io/zh
 ### 2024-11-07
 - Changed the font to `Lexend-Deca` to enhance readability
     - References: [\[1\]](https://docs.astro.build/en/guides/fonts/#using-fontsource), [\[2\]](https://fontsource.org/fonts/lexend-deca/install) (inspired by [\[3\]](https://blog.3kh0.net/about/))
+- Changed the style of TOC (now it will display on the left side)
+    - References: [\[1\]](https://github.com/SlimeNull/slimenull.github.io) (Changed `src/config.ts`, `src/components/widget/TOC.astro`, and `src/components/widget/SideBar.astro`)
 
 ### 2024-11-05
 - Uploaded my cv in a new page
