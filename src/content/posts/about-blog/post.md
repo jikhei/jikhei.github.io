@@ -25,5 +25,5 @@ Before this blog, I built another personal blog with [`hexo`](https://hexo.io/zh
     - References: [\[1\]](https://docs.astro.build/en/guides/fonts/#using-fontsource), [\[2\]](https://fontsource.org/fonts/lexend-deca/install) (inspired by [\[3\]](https://blog.3kh0.net/about/))
 
 ### 2024-11-05
-- Upload my cv in a new page
+- Uploaded my cv in a new page
     - References: [\[1\]](https://docs.astro.build/en/basics/astro-pages/), [\[2\]](https://docs.astro.build/en/guides/imports/) (inspired by [\[3\]](https://github.com/academicpages/academicpages.github.io))
