@@ -54,7 +54,7 @@ export const navBarConfig: NavBarConfig = {
       external: false
     },
     {
-      name: 'Posts',
+      name: 'Archive',
       url: '/archive/',
       external: false
     },

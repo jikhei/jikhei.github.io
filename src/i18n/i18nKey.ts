@@ -2,6 +2,7 @@ enum I18nKey {
   home = 'home',
   about = 'about',
   projects = 'projects',
+  cv = 'cv',
   archive = 'archive',
   search = 'search',
 
