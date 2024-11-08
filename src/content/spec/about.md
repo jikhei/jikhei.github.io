@@ -2,9 +2,8 @@
 
 > [!NOTE]
 > Here is some useful links:
-> - 📌 Projects: -
-> - 📃 Publications: -
-> - 📢 Presentations and posters: -
+> - 📃 Publications <a href="/posts/publications/post/">[here]</a>
+> - 📢 Presentations and posters <a href="/posts/pres-and-posts/post/">[here]</a>
 
 ## Research interests
 

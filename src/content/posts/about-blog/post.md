@@ -1,5 +1,5 @@
 ---
-title: About this blog
+title: About this Blog
 published: 2024-11-07
 description: Something about this blog, about why and how
 tags: [Blog, Non-academic]
@@ -19,6 +19,11 @@ I am curious about anything that I can figure out with code.
 Before this blog, I built another personal blog with [`hexo`](https://hexo.io/zh-cn/) in (about?) 2022. 
 
 ## Change log
+### 2024-11-08
+- Set the home page as the original `About` page
+    - `src/pages/index.astro`： (added a duplicate of `src/pages/about.astro`)
+- Modified the view of `Archive` page
+    - `src/components/ArchivePanel.astro`: (added the display of tags and description)
 
 ### 2024-11-07
 - Changed the font to `Lexend-Deca` to enhance readability

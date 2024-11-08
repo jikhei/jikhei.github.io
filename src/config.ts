@@ -41,14 +41,23 @@ export const siteConfig: SiteConfig = {
 export const navBarConfig: NavBarConfig = {
   links: [
     // LinkPreset.Home,
-    // LinkPreset.CV,
-    LinkPreset.About,
-    LinkPreset.Archive,
+    // LinkPreset.About,
+    // LinkPreset.Archive,
     // {
     //   name: 'GitHub',
     //   url: 'https://github.com/jikhei',     // Internal links should not include the base path, as it is automatically added
     //   external: true,                               // Show an external link icon and will open in a new tab
     // },
+    {
+      name: 'Projects',
+      url: '/projects/',
+      external: false
+    },
+    {
+      name: 'Posts',
+      url: '/archive/',
+      external: false
+    },
     {
       name: 'CV',
       url: '/cv/',

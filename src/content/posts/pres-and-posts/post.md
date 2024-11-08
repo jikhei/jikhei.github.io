@@ -2,7 +2,7 @@
 title: Presentations and Posters
 published: 2024-11-05
 description: An archive for all presentations and posters
-tags: []
+tags: [Academic]
 category: Resources
 draft: false
 ---
