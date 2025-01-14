@@ -1,6 +1,6 @@
 ---
 title: Presentations and Posters
-published: 2024-11-05
+published: 2024-11-08
 description: An archive for all presentations and posters
 tags: [Academic]
 category: Resources
