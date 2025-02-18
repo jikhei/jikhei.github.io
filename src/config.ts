@@ -16,13 +16,14 @@ export const siteConfig: SiteConfig = {
     fixed: true     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
-    src: 'assets/images/banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: true,
+    src: 'assets/images/banner.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
       text: '',              // Credit text to be displayed
-      url: 'https://www.pixiv.net/artworks/122409257'                // (Optional) URL link to the original artwork or artist's page
+      url: ''
+      // url: 'https://www.pixiv.net/artworks/122409257'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
