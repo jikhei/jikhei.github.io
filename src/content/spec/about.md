@@ -1,7 +1,7 @@
 # About
 
 > [!NOTE]
-> Here is some useful links:
+> Here are some useful links:
 > - 📃 Publications <a href="/posts/publications/post/">[here]</a>
 > - 📢 Presentations and posters <a href="/posts/pres-and-posts/post/">[here]</a>
 
