@@ -1,8 +1,8 @@
 ---
 title: About this Blog
-published: 2024-11-07
+published: 2025-03-29
 description: Something about this blog, about why and how
-tags: [Blog, Non-academic]
+tags: []
 category: Blog
 draft: false
 ---
@@ -16,7 +16,11 @@ This post is about the blog, especially I will talk about:
 ## Why blog?
 I am curious about anything that I can figure out with code.
 
-Before this blog, I built another personal blog with [`hexo`](https://hexo.io/zh-cn/) in (about?) 2022. 
+Before this blog, I built another personal blog with `hexo` in (about?) 2022. But soon, I didn’t update it because I didn’t know what I should upload and share with readers. I am more used to communication on microblogs, sharing transient ideas with a few words. Blog, on the other hand, is not the way.
+
+However, as I started my study as a postgraduate, I found it a recovery to write down my thoughts with more words. Writing English usually happens in a formal context, e.g., academic writing and emails. I want this blog to be a start for my personal English writing.
+
+Pragmatically, it is also a good way for me to think about how to distill complex ideas from lengthy academic papers into short blog posts.
 
 ## Change log
 ### 2024-11-08

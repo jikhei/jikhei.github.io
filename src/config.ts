@@ -41,7 +41,7 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
-    // LinkPreset.Home,
+    LinkPreset.Home,
     // LinkPreset.About,
     // LinkPreset.Archive,
     // {
@@ -49,11 +49,11 @@ export const navBarConfig: NavBarConfig = {
     //   url: 'https://github.com/jikhei',     // Internal links should not include the base path, as it is automatically added
     //   external: true,                               // Show an external link icon and will open in a new tab
     // },
-    {
-      name: 'Projects',
-      url: '/projects/',
-      external: false
-    },
+    // {
+    //   name: 'Projects',
+    //   url: '/projects/',
+    //   external: false
+    // },
     {
       name: 'Archive',
       url: '/archive/',
@@ -84,11 +84,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:researchgate',
       url: 'https://www.researchgate.net/profile/Yixi-Chen-10',
     },
-    {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/jikhei',
-    }
+    // {
+    //   name: 'GitHub',
+    //   icon: 'fa6-brands:github',
+    //   url: 'https://github.com/jikhei',
+    // }
   ],
 }
 

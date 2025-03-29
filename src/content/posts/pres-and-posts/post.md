@@ -1,9 +1,9 @@
 ---
-title: Presentations and Posters
+title: '[CONF] Presentations and Posters'
 published: 2024-11-08
 description: An archive for all presentations and posters
-tags: [Academic]
-category: Resources
+tags: []
+category: Works
 draft: false
 ---
 

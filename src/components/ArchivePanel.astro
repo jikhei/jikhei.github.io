@@ -98,9 +98,9 @@ function formatTag(tag: string[]) {
                               ></div>
                             </div>
                             <!-- post title -->
-                            <div class="w-[70%] md:max-w-[65%] md:w-[65%] text-left font-bold
+                            <div class="w-[70%] md:max-w-[80%] md:w-[80%] text-left font-bold
                                 group-hover:translate-x-1 transition-all group-hover:text-[var(--primary)]
-                                text-lg pr-8 py-2 whitespace-nowrap overflow-ellipsis overflow-hidden"
+                                text-lg pr-8 py-2 overflow-hidden whitespace-normal break-words"
                             >
                                     {post.data.title}
                             </div>
@@ -108,26 +108,29 @@ function formatTag(tag: string[]) {
                             {/* <div class="hidden md:block md:w-[15%] text-left text-sm transition
                             whitespace-nowrap overflow-ellipsis overflow-hidden
                             text-30"
-                            >{formatTag(post.data.tags)}</div> */}
+                            >
+                                    {formatTag(post.data.tags)}
+                            </div> */}
                         </div>
                     </a>
-                    <a aria-label={post.data.description}
-                       class="group btn-plain block h-full w-full rounded-lg hover:text-[initial]"
+                    <p aria-label={post.data.description}
+                      class="block h-full w-full rounded-lg"
+                      style="color: white;"
                     >
                         <div class="flex flex-row justify-start items-center h-full">
-                          <!-- line -->
-                          <div class="w-[15%] md:w-[10%] transition font-bold text-lg text-right"></div>
-                          <div class="w-[15%] md:w-[10%] dash-line h-full flex items-center"></div>
-                          <!-- post description -->
-                          <div class="w-[70%] md:max-w-[65%] md:w-[65%] text-left font
-                              group-hover:translate-x-1 transition-all group-hover:text-[var(--primary)]
-                              pr-8 pt-0 pb-4 whitespace-nowrap overflow-ellipsis overflow-hidden"
-                          >
-                            <p class = "font opacity-30">{formatTag(post.data.tags)}</p>
-                            <p class = "font opacity-50">{post.data.description}</p>
-                          </div>
+                            <!-- line -->
+                            <div class="w-[15%] md:w-[10%] font-bold text-lg text-right"></div>
+                            <div class="w-[15%] md:w-[10%] dash-line h-full flex items-center"></div>
+                            <!-- tags and post description -->
+                            <div class="w-[70%] md:max-w-[70%] md:w-[70%] text-left font
+                                pr-8 pt-0 pb-4 overflow-hidden whitespace-normal break-words"
+                                style="color: white;"
+                            >
+                                <p class="font opacity-20">{formatTag(post.data.tags)}</p>
+                                <p class="font opacity-50">{post.data.description}</p>
+                            </div>
                         </div>
-                      </a>
+                    </p>
                 ))}
             </div>
         ))
