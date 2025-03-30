@@ -1,6 +1,6 @@
 ---
 title: About this Blog
-published: 2025-03-29
+published: 2025-01-01
 description: Something about this blog, about why and how
 tags: []
 category: Blog

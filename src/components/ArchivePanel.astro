@@ -114,8 +114,8 @@ function formatTag(tag: string[]) {
                         </div>
                     </a>
                     <p aria-label={post.data.description}
-                      class="block h-full w-full rounded-lg"
-                      style="color: white;"
+                      class="block h-full w-full rounded-lg text-black dark:text-white"
+                      // style="color: white;"
                     >
                         <div class="flex flex-row justify-start items-center h-full">
                             <!-- line -->
@@ -123,10 +123,10 @@ function formatTag(tag: string[]) {
                             <div class="w-[15%] md:w-[10%] dash-line h-full flex items-center"></div>
                             <!-- tags and post description -->
                             <div class="w-[70%] md:max-w-[70%] md:w-[70%] text-left font
-                                pr-8 pt-0 pb-4 overflow-hidden whitespace-normal break-words"
-                                style="color: white;"
+                                pr-8 pt-0 pb-4 overflow-hidden whitespace-normal break-words
+                                text-black dark:text-white"
                             >
-                                <p class="font opacity-20">{formatTag(post.data.tags)}</p>
+                                <p class="font opacity-25">{formatTag(post.data.tags)}</p>
                                 <p class="font opacity-50">{post.data.description}</p>
                             </div>
                         </div>

@@ -1,9 +1,9 @@
 # About
 
-> [!NOTE]
-> Here are some useful links:
-> - 📃 Publications <a href="/archive/category/Works/">[here]</a>
-> - 📢 Presentations and posters <a href="/posts/pres-and-posts/post/">[here]</a>
+:::tip[USEFUL LINKS]
+- 📃 Publications <a href="/archive/category/Works/">[here]</a>
+- 📢 Presentations and posters <a href="/posts/pres-and-posts/post/">[here]</a>
+:::
 
 My name is <ruby>
     陈<rp>(</rp><rt>chén</rt><rp>)</rp>

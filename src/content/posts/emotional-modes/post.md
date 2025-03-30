@@ -1,10 +1,10 @@
 ---
 title: '[PAPER] Tracing the Shapes of Adventure Stories and Interpreting them'
-published: 2025-03-29
+published: 2025-03-30
 description: 'The emotional progression has their universal modes, which are interpretable in the subjects of stories.'
 tags: [Emotional mode, Narrative universals, Computational narratology]
 category: Works
-draft: true
+draft: false
 ---
 
 > `[Under review]` Yan, J., & **Chen, Y.**\* (2025). Tracing the shapes of adventure stories: A subject-based interpretation of emotional modes. *Digital Scholarship in the Humanities*.

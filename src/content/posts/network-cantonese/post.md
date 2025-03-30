@@ -1,7 +1,7 @@
 ---
 title: '[PAPER] Sentence-Final Particles in the Syntactic Networks of Cantonese and Mandarin Chinese'
-published: 2025-03-29
-description: 'We intuitively think SFPs are pervasive in Cantonese. Is it true? And what is its linguistic significance?'
+published: 2024-12-25
+description: 'We intuitively think SFPs are pervasive in Cantonese. Is it true? And what are their linguistic significance?'
 tags: [Cantonese, Syntactic network, Dependency grammar]
 category: Works
 draft: false
