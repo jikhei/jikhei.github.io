@@ -1,17 +1,18 @@
-import WidgetLayout from './WidgetLayout.astro'
+---
 import type { MarkdownHeading } from 'astro'
+import WidgetLayout from './WidgetLayout.astro'
 
-import { i18n } from '../../i18n/translation'
+import { fade } from 'astro:transitions'
 import I18nKey from '../../i18n/i18nKey'
+import { i18n } from '../../i18n/translation'
 import { getCategoryList } from '../../utils/content-utils'
 import { getCategoryUrl } from '../../utils/url-utils'
 import ButtonLink from '../control/ButtonLink.astro'
-import { fade } from 'astro:transitions'
 
 interface Props {
   class?: string
   style?: string
-  headings: MarkdownHeading[]
+  headings?: MarkdownHeading[]
 }
 
 const { headings } = Astro.props
@@ -36,3 +37,14 @@ const removeTailingHash = (text: string) => {
 
   return text.substring(0, lastIndexOfHash)
 }
+---
+
+<WidgetLayout name={i18n(I18nKey.toc)} id="toc" isCollapsed={isCollapsed} collapsedHeight={COLLAPSED_HEIGHT}
+                class={className} style={style}
+                >
+    {headings.map((heading) =>
+        <div class={getPaddingClassFromHeading(heading)}>
+            <ButtonLink url={`#${heading.slug}`}>{removeTailingHash(heading.text)}</ButtonLink>
+        </div>
+    )}
+</WidgetLayout>
