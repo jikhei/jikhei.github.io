@@ -1,6 +1,6 @@
 ---
-title: About this Blog
-published: 2025-01-01
+title: '[HELLO WORLD] About this Blog'
+published: 2024-11-02
 description: Something about this blog, about why and how
 tags: []
 category: Blog

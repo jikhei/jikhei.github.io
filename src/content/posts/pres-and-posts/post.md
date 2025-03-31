@@ -24,7 +24,6 @@ draft: false
 - [ORAL] **Chen, Y.**, & Yan, J. (December, 2023). A Dependency-based Study on Constituent Ordering Choice: English Locative Inversion as an Example. *Forum on Applied Linguistics 2023*, Guangzhou, China.
     - **Keywords**: locative inversion, constituent ordering choice, short-before-long preference, dependenct grammar
 
-- [POSTER] **Chen, Y.**, & Fang, Y. (October, 2023). Exploring Dependency Distance Minimization in the
-Development of Arabic EFL Learners’ Interlanguage: Insights from a Corpus-Based Study.
+- [POSTER] **Chen, Y.**, & Fang, Y. (October, 2023). Exploring Dependency Distance Minimization in the Development of Arabic EFL Learners’ Interlanguage: Insights from a Corpus-Based Study.
 *International Conference of Language Development and Assessment 2023*, Hangzhou, China.
     - **Keywords**: dependency distance minimization (DDM), interlanguage, learner corpus, learner development
