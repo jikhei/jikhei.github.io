@@ -1,6 +1,10 @@
 # # post template
 # src/content/posts/template
 
+# all posts
+
+# src/content/posts/*
+
 # build output
 dist/
 
@@ -28,3 +32,4 @@ pnpm-debug.log*
 package-lock.json
 bun.lockb
 yarn.lock
+

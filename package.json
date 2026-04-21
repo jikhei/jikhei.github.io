@@ -60,6 +60,7 @@
     "@types/markdown-it": "^14.1.2",
     "@types/mdast": "^4.0.4",
     "@types/sanitize-html": "^2.13.0",
+    "astro-date-sync": "^1.0.1",
     "photoswipe": "^5.4.4",
     "remark-github-admonitions-to-directives": "^1.0.5",
     "sass": "^1.77.8",

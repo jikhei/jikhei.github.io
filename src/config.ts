@@ -61,7 +61,7 @@ export const navBarConfig: NavBarConfig = {
     },
     {
       name: 'CV',
-      url: '/cv/',
+      url: 'https://drive.google.com/file/d/1n3MXF0XRwirjn43PLYimhEqfoj9SUYPH/view?usp=sharing',
       external: true
     },
   ],
@@ -76,13 +76,13 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Email',
       icon: 'fa6-solid:envelope',              // Visit https://icones.js.org/ for icon codes
-      url: 'mailto:canjikhei1030@outlook.com'        // You will need to install the corresponding icon set if it's not already included
+      url: 'mailto:ych21@iu.edu'        // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
     },
     {
-      name: 'ResearchGate',
-      icon: 'fa6-brands:researchgate',
-      url: 'https://www.researchgate.net/profile/Yixi-Chen-10',
+      name: 'Google Scholar',
+      icon: 'fa6-brands:google-scholar',
+      url: 'https://scholar.google.com/citations?user=BDvzKLoAAAAJ',
     },
     // {
     //   name: 'GitHub',
